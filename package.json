@@ -1,13 +1,11 @@
 {
   "name": "bf-component-modal",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simple modal component for react project.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
     "build-lib": "rollup -c"
   },
   "keywords": [
