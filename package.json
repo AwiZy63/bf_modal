@@ -1,6 +1,6 @@
 {
   "name": "bf-component-modal",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "Simple modal component for react project.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -30,16 +30,16 @@
     "@storybook/addon-links": "^6.4.18",
     "@storybook/react": "^6.4.18",
     "babel-loader": "^8.2.3",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "rollup": "^2.67.0",
     "rollup-plugin-babel": "^4.4.0",
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "rollup-plugin-postcss": "^4.0.2"
   },
   "peerDependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "dependencies": {
     "react-transition-group": "^4.4.2",
